@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @firilanjm
+- 👋 Hi, I’m Firila Najma
 - 👀 I’m interested in Statistics and Data Science
 - 🌱 I’m currently learning Applied Machine Learning
 - 💞️ I’m looking to collaborate on Data Analysis
