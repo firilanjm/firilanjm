@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @firilanjm
 - 👀 I’m interested in Statistics and Data Science
-- 🌱 I’m currently learning Inferential, Data Algorithm and Complexity
+- 🌱 I’m currently learning Applied Machine Learning
 - 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me through my LinkedIn
 - 😄 Pronouns: She/Her
