@@ -1,4 +1,4 @@
-Hi! I’m Firila Najma, a second-year Statistics & Data Science student at UBC. I’m passionate about turning raw data into actionable insights through Python, SQL, and Tableau.
+Hi! I’m Firila Najma, a second-year Statistics & Data Science student at UBC. I’m passionate about turning raw data into actionable insights through R, Python, SQL, and Tableau.
 
 On this GitHub, you’ll find projects showcasing my skills in:
 
