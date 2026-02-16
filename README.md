@@ -1,5 +1,6 @@
-Hi! I’m Firila Najma, a second-year Statistics & Data Science student at UBC. I’m passionate about turning raw data into actionable insights through R, Python, SQL, and Tableau.
-
+# Firila Najma Wahidah – Statistics & Data Science Student
+## About Me
+Statistics student at UBC with experience in machine learning, research, and data visualization. Passionate about solving real-world problems using data.
 On this GitHub, you’ll find projects showcasing my skills in:
 
 - Data Cleaning & Analysis: Handling messy datasets, filtering, and preparing for analysis
@@ -10,10 +11,22 @@ On this GitHub, you’ll find projects showcasing my skills in:
 
 - Python Analytics & EDA: Using Pandas, NumPy, Matplotlib, and Seaborn for insights
 
-📌 Featured Projects:
+## 📌 Featured Projects:
 
-- E-Commerce Data Analysis: Top-selling products, revenue trends, customer insights, and returns analysis
+### Credit Card Fraud Detection
+[GitHub Repo](https://github.com/firilanajma/credit-card-fraud-detection)
 
-- Credit Card Fraud Detection: Machine learning models to detect fraudulent transactions
+### E-Commerce Data Analytics
+[GitHub Repo](https://github.com/firilanajma/ecommerce-data-analytics)
 
-I aim to share projects that demonstrate real-world data-driven decision-making and my growth as a data analyst.
+### Seismic Risk Modeling (Ongoing Research)
+[GitHub Repo](https://github.com/firilanajma/seismic-risk-research)
+
+### DataQuest Competition – 1st Place
+[GitHub Repo](https://github.com/firilanajma/dataquest-competition)
+
+## Resume
+[Download PDF](https://github.com/firilanajma/firilanajma.github.io/raw/main/Firila_Najma_Resume.pdf)
+
+## Contact
+Email: firilanjm@gmail.com
