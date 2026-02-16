@@ -11,22 +11,5 @@ On this GitHub, you’ll find projects showcasing my skills in:
 
 - Python Analytics & EDA: Using Pandas, NumPy, Matplotlib, and Seaborn for insights
 
-## 📌 Featured Projects:
-
-### Credit Card Fraud Detection
-[GitHub Repo](https://github.com/firilanajma/credit-card-fraud-detection)
-
-### E-Commerce Data Analytics
-[GitHub Repo](https://github.com/firilanajma/ecommerce-data-analytics)
-
-### Seismic Risk Modeling (Ongoing Research)
-[GitHub Repo](https://github.com/firilanajma/seismic-risk-research)
-
-### DataQuest Competition – 1st Place
-[GitHub Repo](https://github.com/firilanajma/dataquest-competition)
-
-## Resume
-[Download PDF](https://github.com/firilanajma/firilanajma.github.io/raw/main/Firila_Najma_Resume.pdf)
-
 ## Contact
 Email: firilanjm@gmail.com
